@@ -2,7 +2,7 @@
 พระไตรปิฎกและอรรถกถาแปล ชุด 91 เล่ม ฉบับมหามกุฏราชวิทยาลัย (เล่มสีน้ำเงิน)
 
 # Usage
-Just import the files and use. The files are organized by sutta.
+Just import the files and use.  Each folder represents a book volume number. The files are organized by sutta. The files are named after the first database row number that the sutta was found in from the original database `thaimm.sqlite`
 
 Each sutta has three files.
 1. A raw file that is copied from the database
