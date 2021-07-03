@@ -1,12 +1,12 @@
 {
     "title": "ราโชวาทชาดก",
     "subtitle": "ว่าด้วยวิธีชนะ",
-    "description": "ชนะคนโกรธด้วยความไม่โกรธ ชนะคนไม่ดีด้วยความดี ชนะคนตระหนี่ด้วยการให้ ชนะคนพูดเหลาะแหละด้วยคำสัตย์",
+    "summary": "ชนะคนโกรธด้วยความไม่โกรธ ชนะคนไม่ดีด้วยความดี ชนะคนตระหนี่ด้วยการให้ ชนะคนพูดเหลาะแหละด้วยคำสัตย์",
     "row": 33215,
     "volume": 57,
-    "volume_orig": 27,
-    "page_start": 1,
-    "page_end": 9,
+    "volumeOrig": 27,
+    "pageStart": 1,
+    "pageEnd": 9,
     "items": [151, 152],
     "references": ["http://www.tripitaka91.com/57-2-1.html", "https://84000.org/tipitaka/attha/attha.php?b=27&i=151", "https://www.youtube.com/watch?v=T5EAKzMjp5o"],
     "status": "need review"
