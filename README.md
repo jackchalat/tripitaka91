@@ -15,14 +15,15 @@ The JSON meta file contains all the metadata about the sutta. Here is an example
 {
     "title": "มงคลสูตรที่ ๔",
     "subtitle": "ว่าด้วยอุดมมงคล ๓๘",
-    "description": "การไม่คบคนพาล การคบบัณฑิต การบูชาบุคคลที่ควรบูชา",
+    "summary": "การไม่คบคนพาล การคบบัณฑิต การบูชาบุคคลที่ควรบูชา",
     "row": 27580,
     "volume": 47,
     "volume_orig": 25,
     "page_start": 124,
     "page_end": 198,
     "item": [317, 318],
-    "status": "in progress"
+    "status": "in progress",
+    "creator": "jackchalat"
 }
 ```
 Note: This is a work in progress. So some files may be incomplete. Please check `status` attribute of the sutta.

@@ -1,4 +1,6 @@
 {
+    "id": "ja151",
+    "structure": ["KN", "Ja", 151],
     "title": "ราโชวาทชาดก",
     "subtitle": "ว่าด้วยวิธีชนะ",
     "summary": "ชนะคนโกรธด้วยความไม่โกรธ ชนะคนไม่ดีด้วยความดี ชนะคนตระหนี่ด้วยการให้ ชนะคนพูดเหลาะแหละด้วยคำสัตย์",
@@ -8,6 +10,7 @@
     "pageStart": 1,
     "pageEnd": 9,
     "items": [151, 152],
-    "references": ["http://www.tripitaka91.com/57-2-1.html", "https://84000.org/tipitaka/attha/attha.php?b=27&i=151", "https://www.youtube.com/watch?v=T5EAKzMjp5o"],
+    "references": ["http://www.tripitaka91.com/57-2-1.html", "https://84000.org/tipitaka/attha/attha.php?b=27&i=151", "https://www.youtube.com/watch?v=T5EAKzMjp5o", "https://suttacentral.net/ja151/en/rouse"],
+    "creator": "jackchalat",
     "status": "need review"
 }

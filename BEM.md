@@ -9,3 +9,4 @@ Each article in Tripitaka is represented as an html file. The class names follow
 `.chapter__title` an element for a chapter title that appears in the text.  
 `.chapter__subtitle` an element for a chapter subtitle that appears in the text.  
 `.chapter__item` an element for a numbered verse from the book. Each `.chapter__item` has `.chapter__item__number` as the first child.
+`.chapter__pali` an element in Pali

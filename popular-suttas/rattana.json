@@ -1,0 +1,10 @@
+{
+    "id": "rattana-sutta",
+    "title": "รัตนสูตร",
+    "subtitle": "ว่าด้วยรัตนอันประณีต",
+    "summary": "ว่าด้วยความสวัสดี มีด้วยพุทธ ธรรม สงฆ์",
+    "bookId": 1,
+    "references": ["http://www.tripitaka91.com/39-215-4.html", "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.2.01.piya.html"],
+    "creator": "jackchalat",
+    "status": "draft"
+}

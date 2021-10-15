@@ -1,12 +1,15 @@
 {
+    "id": "snp2.4",
+    "structure": ["KN", "Snp", 2.4],
     "title": "มงคลสูตรที่ ๔",
     "subtitle": "ว่าด้วยอุดมมงคล ๓๘",
-    "description": "การไม่คบคนพาล การคบบัณฑิต การบูชาบุคคลที่ควรบูชา",
+    "description": "เหล่าชนครั้นกระทำการมงคลทั้ง ๓๘ ประการเหล่านี้แล้ว ย่อมเป็นผู้ไม่พ่ายแพ้ในที่ทั้งปวง",
     "row": 27580,
     "volume": 47,
     "volume_orig": 25,
     "page_start": 124,
     "page_end": 198,
     "item": [317, 318],
+    "references": ["http://www.tripitaka91.com/47-124-1.html"],
     "status": "in progress"
 }
